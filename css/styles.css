@@ -97,12 +97,10 @@ a:hover{
     }
 
     .one{
-        background-color: hsl(31, 77%, 52%);
         border-radius: 10px 10px  0 0;
         }
 
         .three{
-            background-color: hsl(31, 77%, 52%);
             border-radius:0 0 10px 10px;
             }
 }
